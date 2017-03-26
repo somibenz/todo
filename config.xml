@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget
-        id="com.phonegap.basicmathgame"
+        id="com.phonegap.basicbilingualtodo"
         version="1.0.0"
         xmlns="http://www.w3.org/ns/widgets"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Basic Math Game</name>
+    <name>ToDo</name>
     <description>
-        Simple Maths Game To Tease The Brain
+        ToDo app for your activities
     </description>
-    <author email="tolulopeibiyode@gmail.com" href="#">
-        Gods1son
+    <author email="somibenz@yahoo.com" href="#">
+        Somibenz
     </author>
     <preference name="orientation" value="portrait"/>
     <preference name="permissions" value="none"/>
